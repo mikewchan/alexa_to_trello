@@ -1,0 +1,13 @@
+[Amazon]
+email: (email address)
+password: (password)
+
+[Trello]
+app_key: (app key)
+secret: (secret)
+token: (token)
+board_id: (board ID)
+buy_list_id: (list ID)
+
+[Schedule]
+poll_time_in_seconds: 30
